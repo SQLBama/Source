@@ -1,0 +1,2 @@
+CREATE USER [MyCertUser] FOR CERTIFICATE [MyCert]
+GO
